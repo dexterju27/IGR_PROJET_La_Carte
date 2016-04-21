@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo-hippo2.png</file>
+        <file>c-delete.png</file>
+        <file>c-HIPPO-STYLE GROUND BEEF WITH EGG.jpg</file>
+        <file>c-Hippo.png</file>
+        <file>c-vignette_entrees.jpg</file>
+        <file>c-vignette_viandes-poissons.jpg</file>
+        <file>c-Carte-Kids.png</file>
+        <file>hippo-cook.jpg</file>
+        <file>c-map-pin.png</file>
+        <file>carte.png</file>
+        <file>EN1.png</file>
+        <file>flag_en.png</file>
+        <file>flag_es.png</file>
+        <file>flag_fr.png</file>
+        <file>flag_ger.png</file>
+        <file>flag_ita.png</file>
+        <file>Hippo.png</file>
+        <file>KIDS.png</file>
+        <file>left.png</file>
+        <file>logo-hippo.png</file>
+        <file>menu.png</file>
+        <file>promotion.png</file>
+        <file>right.png</file>
+        <file>flag_cn.gif</file>
+        <file>flg_jpn.gif</file>
+        <file>D3.jpg</file>
+        <file>DM.jpg</file>
+        <file>EN 3.jpg</file>
+        <file>EN2.jpg</file>
+        <file>mc.jpg</file>
+        <file>P2.jpg</file>
+        <file>P3.jpg</file>
+    </qresource>
+</RCC>

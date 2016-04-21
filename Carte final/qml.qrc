@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ProgressBar.qml</file>
+        <file>Bienvenu.qml</file>
+        <file>Menu1.qml</file>
+        <file>Menu2.qml</file>
+        <file>Menu3.qml</file>
+        <file>Menu4.qml</file>
+        <file>Language.qml</file>
+        <file>Home.qml</file>
+        <file>BlockButton.qml</file>
+        <file>main.qml</file>
+        <file>List.qml</file>
+        <file>carte.qml</file>
+        <file>listModelPlat.qml</file>
+        <file>ScrollBar.qml</file>
+        <file>confirmation.qml</file>
+        <file>payment.qml</file>
+    </qresource>
+</RCC>
